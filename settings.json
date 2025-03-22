@@ -1,0 +1,19 @@
+{
+    "theme": "Dark",
+    "color_theme": "green",
+    "language": "ru",
+    "programs_folder": "C:/Programs",
+    "image_size": [
+        5000,
+        5000
+    ],
+    "program_card_size": [
+        500,
+        500
+    ],
+    "custom_theme": {
+        "bg_color": "#7d0d82",
+        "text_color": "#ffff00",
+        "accent_color": "#ff0080"
+    }
+}
